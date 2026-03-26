@@ -1,0 +1,20 @@
+{
+    "Indusvalley": {
+        "display_name": "Indus Valley",
+        "sessions_csv": "data/indusvalley/sessions.csv",
+        "timezone": "Asia/Kolkata",
+        "currency": "₹"
+    },
+    "Oracura": {
+        "display_name": "Oracura",
+        "sessions_csv": "data/oracura/sessions.csv",
+        "timezone": "Asia/Kolkata",
+        "currency": "₹"
+    },
+    "Typsybeauty": {
+        "display_name": "Typsy Beauty",
+        "sessions_csv": "data/typsybeauty/sessions.csv",
+        "timezone": "Asia/Kolkata",
+        "currency": "₹"
+    }
+}

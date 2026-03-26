@@ -1,0 +1,6 @@
+pandas
+numpy
+clickhouse-connect
+jupyter
+ipython
+ 
